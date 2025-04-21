@@ -47,7 +47,7 @@ ___
 
 ### **`🎩 INFORMACION IMPORTANTE`**
 
-![Menu Secundario](https://files.catbox.moe/lq6fa1.jpg)
+![Menu Secundario](https://files.catbox.moe/1yclkl.jpg)
 
 > Enlaces Oficiales De MOON 
 
