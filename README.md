@@ -123,7 +123,7 @@ href="https://wa.me/50557865603?text="><img src="https://files.catbox.moe/44q2o7
 > **Sonic-ProMax No Recibe Mucho Mantenimiento En Termux**
 
 > [!TIP]
-> **Puedes Utilizar Servidores Para Instalar A Sonic-ProMax o Compra Tu [Token](https://Crow-Bot-dashboard.vercel.app/) En La Pagina Oficial De Sonic-ProMax!**
+> **Puedes Utilizar Servidores Para Instalar A Sonic-ProMax o Compra Tu [Token](https://Crow-Bot-dashboard.vercel.app/) En La Pagina Oficial De MOON!**
 
 
 #### **`🌠 Click en la imagen para obtener termux`**
