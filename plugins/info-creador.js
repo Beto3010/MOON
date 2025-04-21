@@ -25,7 +25,7 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
                 title: 'һ᥆ᥣᥲ s᥆ᥡ Orlando-᥆𝖿ᥴ ᥱᥣ mᥱȷ᥆r',
                 body: dev,
                 thumbnailUrl: 'https://files.catbox.moe/wd3wwq.jpg',
-                sourceUrl: 'https://wa.me/5212731590195?text=Vengo+Del+Comando+.owner',
+                sourceUrl: 'https://wa.me/5215615150459?text=Vengo+Del+Comando+.owner',
                 mediaType: 1,
                 renderLargerThumbnail: true
             }
