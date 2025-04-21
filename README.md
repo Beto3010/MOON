@@ -15,7 +15,7 @@ ___
 
 ## 💛 **`M O O N - B O T`**    
 
-![Menú Principal](https://files.catbox.moe/hjl3b6.jpg)
+![Menú Principal](https://files.catbox.moe/d59rp0.jpg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>   
 
