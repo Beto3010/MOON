@@ -70,7 +70,7 @@ ___
 
 ### **`🔱 CARACTERÍSTICAS`**
 <details>
- <summary><b> <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" alt="Características" width="42" height="42"> Funciones de Sonic-ProMax (toca)</b></summary>
+ <summary><b> <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" alt="Características" width="42" height="42"> Funciones de MOON (toca)</b></summary>
 
 > Bot en desarrollo si presenta alguna falla reportar al creador para darle una solución óptima.
 
