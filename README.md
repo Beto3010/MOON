@@ -38,7 +38,7 @@ ___
 [![Accounts](https://img.shields.io/badge/CUENTAS-000000%7D?style=for-the-badger&logo=biolink&logoColor=white)](https://www.atom.bio/crowbot-ofc)
 
 
-<a href="#"><img title="CrowBot" src="https://img.shields.io/badge/Sonic💛 | Orlando MxM💛 | STARCORE 💛-blue?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
+<a href="#"><img title="CrowBot" src="https://img.shields.io/badge/MOON💛 | Alberto MxM💛 | STARCORE 💛-blue?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
 </p>
 
 <!-- RAINBOW LINE BOT -->
@@ -49,7 +49,7 @@ ___
 
 ![Menu Secundario](https://files.catbox.moe/lq6fa1.jpg)
 
-> Enlaces Oficiales De SonicBot 
+> Enlaces Oficiales De MOON 
 
 ### **`🔗 OBTEN LOS ENLACES`**
 
