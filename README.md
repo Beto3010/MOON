@@ -19,7 +19,7 @@ ___
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>   
 
-<a href="https://github.com/WillZek/CrowBot-ST"><img src="https://cardivo.vercel.app/api?name=Sonic&repo=CrowBot-ST&description=Hola+Soy+SonicBot+Disfruta+del+Bot+De+WhatsApp.&image=https://cdnmega.vercel.app/media/FlRSwb6Q@gi4Rb_NxJn8alIs5ugKRnaIu1Df0qxGjGymitgBPEv0/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=SonicBot&whatsapp=50557865603&tiktok=crow_legendario_bs&pattern=leaf&colorPattern=%23eaeaea" /><a>
+<a href="https://github.com/WillZek/CrowBot-ST"><img src="https://cardivo.vercel.app/api?name=Sonic&repo=CrowBot-ST&description=Hola+Soy+MOON+Disfruta+del+Bot+De+WhatsApp.&image=https://cdnmega.vercel.app/media/FlRSwb6Q@gi4Rb_NxJn8alIs5ugKRnaIu1Df0qxGjGymitgBPEv0/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=SonicBot&whatsapp=50557865603&tiktok=crow_legendario_bs&pattern=leaf&colorPattern=%23eaeaea" /><a>
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=85&pause=2000&color=FFD200FF&chrome=true&width=1000&height=200&lines=💛+ Alberto+Lanzó;🍷La+Version+2.1.0;Disfruta+Del+Bot+🎩" alt="Typing SVG" /></a>
 
