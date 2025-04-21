@@ -95,7 +95,7 @@ ___
 
 ### **`👑 INFORMACION CONTACTOS`**
 
-#### **`Owner: Orlando castillo 🤴`**
+#### **`Owner: Alberto 🤴`**
 > **`Developed By: Crow's Club`**
 
 #### **`CONTACTOS 💻`**
