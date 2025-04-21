@@ -10,8 +10,8 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
 
     // VCARD
     let list = [{
-        displayName: "Orlando-Ofc 🎩",
-        vcard: `BEGIN:VCARD\nVERSION:3.0\nFN: Orlando-ᴏғɪᴄɪᴀʟ🍭\nitem1.TEL;waid=5212731590195:521273159 0195\nitem1.X-ABLabel:Número\nitem2.EMAIL;type=INTERNET: ninopina10@gmail.com\nitem2.X-ABLabel:Email\nitem3.URL:https://www.instagram.com/crowbot_wa\nitem3.X-ABLabel:Internet\nitem4.ADR:;; Nicaragua;;;;\nitem4.X-ABLabel:Region\nEND:VCARD`,
+        displayName: "Alberto-RS 🎩",
+        vcard: `BEGIN:VCARD\nVERSION:3.0\nFN: Orlando-ᴏғɪᴄɪᴀʟ🍭\nitem1.TEL;waid=5215615150459:5215615150459\nitem1.X-ABLabel:Número\nitem2.EMAIL;type=INTERNET: ninopina10@gmail.com\nitem2.X-ABLabel:Email\nitem3.URL:https://www.instagram.com/crowbot_wa\nitem3.X-ABLabel:Internet\nitem4.ADR:;; Nicaragua;;;;\nitem4.X-ABLabel:Region\nEND:VCARD`,
     }];
 
     await conn.sendMessage(m.chat, {
