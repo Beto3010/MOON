@@ -107,7 +107,7 @@ href="https://wa.me/50557865603?text="><img src="https://files.catbox.moe/44q2o7
 <details>
 <summary><b> 📞 Toca Aqui</b></summary>
 
-- **Propietario:** [`Aquí`](https:/Wa.me/5212731590195)
+- **Propietario:** [`Aquí`](https:/Wa.me/5215615150459)
 - **Github:** [`Aqui`](https://github.com/WillZek)
 - **Instagram:** [`Aqui`](https://www.instagram.com/pina_dzn)
 - **Correo:** [`Aqui`](ninopina10@gmail.com)
@@ -120,10 +120,10 @@ href="https://wa.me/50557865603?text="><img src="https://files.catbox.moe/44q2o7
 ### **`🖤 TERMUX INFORMACIÓN`**
 
 > [!IMPORTANT]
-> **Sonic-ProMax No Recibe Mucho Mantenimiento En Termux**
+> **MOON No Recibe Mucho Mantenimiento En Termux**
 
 > [!TIP]
-> **Puedes Utilizar Servidores Para Instalar A Sonic-ProMax o Compra Tu [Token](https://Crow-Bot-dashboard.vercel.app/) En La Pagina Oficial De MOON!**
+> **Puedes Utilizar Servidores Para Instalar A MOON o Compra Tu [Token](https://Crow-Bot-dashboard.vercel.app/) En La Pagina Oficial De MOON!**
 
 
 #### **`🌠 Click en la imagen para obtener termux`**
