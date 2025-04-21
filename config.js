@@ -37,8 +37,8 @@ global.wm = '⏤͟͟͞͞⋆⬪࣪ꥈ🍨★ ׄ ꒱ Sonic-ProMax - 𝑺.𝑪.𝑨
 global.author = '(⁎˃ᴗ˂⁎)𝐌𝐚𝐝𝐞 𝐁𝐲 𝐖𝐢𝐥𝐥𝐙𝐞𝐤𓆪'
 global.dev = ' © ⍴᥆ᥕᥱrᥱძ ᑲᥡ m᥆᥆ᥒ 𝖿᥆rᥴᥱ '
 global.espera = '✰ 𝐄𝐬𝐩𝐞𝐫𝐚 𝐔𝐧 𝐌𝐨𝐦𝐞𝐧𝐭𝐨, 𝐄𝐬𝐭𝐚𝐦𝐨𝐬 𝐄𝐧𝐯𝐢𝐚𝐧𝐝𝐨 𝐒𝐮 𝐏𝐞𝐝𝐢𝐝𝐨 (✿◠‿◠)'
-global.namebot = 'SonicBot '
-global.textbot = `「 🔱 Sonic-ProMax  🔱 」`
+global.namebot = 'MOONBOT '
+global.textbot = `「 🔱 MOONBOT  🔱 」`
 global.vs = '2.1.0'
 global.publi = '✰𝐒𝐢𝐠𝐮𝐞 𝐄𝐥 𝐂𝐚𝐧𝐚𝐥👇'
 
